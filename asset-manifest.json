@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fut_career/static/css/main.073c9b0a.css",
+    "main.js": "/fut_career/static/js/main.26b50329.js",
+    "static/js/787.b1d46998.chunk.js": "/fut_career/static/js/787.b1d46998.chunk.js",
+    "static/media/logo.svg": "/fut_career/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/fut_career/index.html",
+    "main.073c9b0a.css.map": "/fut_career/static/css/main.073c9b0a.css.map",
+    "main.26b50329.js.map": "/fut_career/static/js/main.26b50329.js.map",
+    "787.b1d46998.chunk.js.map": "/fut_career/static/js/787.b1d46998.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.26b50329.js"
+  ]
+}
